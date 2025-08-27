@@ -1,3 +1,7 @@
+
+
+<img width="400" height="158" alt="PyTorch_logo_white svg" src="https://github.com/user-attachments/assets/92334b9d-1f99-4a2b-924c-ec789706de63" />
+
 # Buildig a model 
 
 steps for training a model for image classification
